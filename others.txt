@@ -1,6 +1,5 @@
 # gambling and nsfw 
 # please use this one besides https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
-
 xcvip805.com
 dd8808.com
 18ty99.com

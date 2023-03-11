@@ -56,7 +56,6 @@ fr.app.chat.global.xiaomi.net
 tracking.intl.miui.com
 data.mistat.intl.xiaomi.com
 lb-im-11-1803639322.ap-southeast-1.elb.amazonaws.com
-
 #  Android OS Privacy Under the Loupe -- A Tale from the East https://www.theregister.com/2023/02/07/chinese_android_phones_leak_pii/
 tracking.miui.com
 ad.xiaomi.com
@@ -66,7 +65,6 @@ sms.ads.heytapmobi.com
 apsrgeo.amap.com
 aps.amap.com
 log.avlyun.com
-
 # tencent and wechat
 # the block domains from https://otx.alienvault.com/indicator/hostname/snsvideo.c2c.wechat.com
 snsvideo.c2c.wechat.com
